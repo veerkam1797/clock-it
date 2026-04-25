@@ -13,7 +13,7 @@ export default function RootLayout() {
     <ThemeProvider>
       <SafeAreaProvider>
         <Stack screenOptions={{headerShown: false}}>
-          <Stack.Screen name="(auth)" />
+          {/* <Stack.Screen name="(auth)" /> */}
           <Stack.Screen name="(app)" />
         </Stack>
         <StatusBar style="auto" />
