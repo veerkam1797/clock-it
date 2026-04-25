@@ -1,5 +1,5 @@
 export const Colors = {
-  grey: {
+  gray: {
     25: "#fcfcfd",
     50: "#ebecee",
     100: "#c0c4ca",
@@ -7,10 +7,10 @@ export const Colors = {
     300: "#777f8c",
     400: "#5d6676",
     500: "#344054",
-    600: "##2f3a4c",
+    600: "#2f3a4c",
     700: "#252d3c",
-    800: "##1d232e",
-    900: "##161b23",
+    800: "#1d232e",
+    900: "#161b23",
   },
   purple: {
     25: "#FAFAFF",
@@ -20,10 +20,10 @@ export const Colors = {
     300: "#BDB4FE",
     400: "#9B8AFB",
     500: "#7A5AF8",
-    600: "##6938EF",
+    600: "#6938EF",
     700: "#5925DC",
-    800: "##4A1FB8",
-    900: "##3E1C96",
+    800: "#4A1FB8",
+    900: "#3E1C96",
   },
   success: {
     25: "#f6fef9",
@@ -35,8 +35,8 @@ export const Colors = {
     500: "#19b36e",
     600: "#17a364",
     700: "#127f4e",
-    800: "##0e623d",
-    900: "##0b4b2e",
+    800: "#0e623d",
+    900: "#0b4b2e",
   },
   error: {
     25: "#fffbfa",
@@ -65,7 +65,7 @@ export const Colors = {
     900: "#6b491c",
   },
   base: {
-    white: "#fff7ec",
+    white: "#fefefe",
     black: "#1d232e"
   }
 }
